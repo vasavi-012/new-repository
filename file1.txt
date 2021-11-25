@@ -6,3 +6,4 @@ git is a tool
 githu is  a cloud account
 pwd-present working directory
 mkdir-to create a new directory
+git remote add -to create remote
