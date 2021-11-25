@@ -1,0 +1,8 @@
+github
+vrsec
+2nd year
+IT-B
+git is a tool 
+githu is  a cloud account
+pwd-present working directory
+mkdir-to create a new directory
